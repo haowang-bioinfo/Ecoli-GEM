@@ -4,7 +4,7 @@
 
 #### Description
 
-This repository contains the latest version of Ecoli-GEM, an _E. coli_ genome-scale metabolic model.
+This repository is meant to replicate the published _iML1515_ genome-scale metabolic model in the format expected by standard-GEM, to facilitate reuse by other databases and automatic pipelines
 
 #### Citation
 
@@ -17,7 +17,7 @@ This repository contains the latest version of Ecoli-GEM, an _E. coli_ genome-sc
 **Type of Model:** reconstruction, curated  
 **Model source:**  
 **Omic source:** genomics; metabolomics  
-**Taxonomic name:** \_Escherichia coli_K-12 MG1655  
+**Taxonomic name:** _Escherichia coli_ K-12 MG1655  
 **Taxonomy ID:** [511145](https://identifiers.org/taxonomy:511145)  
 **Genome ID:** [GCF_000005845.2](https://identifiers.org/insdc.gca:GCF_000005845.2)  
 **Metabolic System:** general metabolism  
@@ -66,7 +66,7 @@ This repository contains the latest version of Ecoli-GEM, an _E. coli_ genome-sc
 
 ## Websites
 
-- Under preparation.
+- [BiGG](http://bigg.ucsd.edu/models/iML1515)
 
 ### Contributing
 
