@@ -2,15 +2,15 @@
 !!omap
 - metaData:
     short_name: "iML1515"
-    full_name: ""
-    version: ""
+    full_name: "iML1515"
+    version: "0.0.1"
     date: "2022-05-26"
     authors: ""
     email: ""
-    organization: ""
+    organization: "BiGG"
     taxonomy: ""
-    github: ""
-    description: ""
+    github: "https://github.com/haowang-bioinfo/Ecoli-GEM"
+    description: "This is a YAML file export of the iML115 model from the BiGG database."
 - metabolites:
     - !!omap
       - id: "octapb_c"
