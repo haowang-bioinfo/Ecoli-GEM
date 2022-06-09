@@ -1,5 +1,5 @@
-bnumber	geneName	Enzyme	Function	Reference	studyType	lethalCondtion	strain	notes
-b2316	accD	acetylCoA carboxylase, carboxytransferase component, beta subunit	enzyme; Fatty acid and phosphatidic acid biosynthesis	Mol Gen Genet 1991 Aug;228(1-2):62-4, An essential gene of Escherichia coli that has sequence similarity to a chloroplast gene of unknown function	 	 	 AKA dedB, usg Questionable	
+bNumber	geneName	Enzyme	Function	Reference	studyType	lethalCondtion	strain	notes
+b2316	accD	acetylCoA carboxylase, carboxytransferase component, beta subunit	enzyme; Fatty acid and phosphatidic acid biosynthesis	Mol Gen Genet 1991 Aug;228(1-2):62-4, An essential gene of Escherichia coli that has sequence similarity to a chloroplast gene of unknown function	 	 		AKA dedB, usg Questionable
 b2563	acpS	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase	enzyme; Fatty acid and phosphatidic acid biosynthesis	J Bacteriol 1992 Mar;174(5):1544-53, Locating essential Escherichia coli genes by using mini-Tn10 transposons: the pdxJ operon	 	 	 	AKA dpj
 b3433	asd	aspartate-semialdehyde dehydrogenase	enzyme; Amino acid biosynthesis: Lysine	 	 	 	 	 
 b2472	dapE	N-succinyl-diaminopimelate deacylase	enzyme; Amino acid biosynthesis: Lysine	J Bacteriol 1992 Aug;174(16):5258-64, The essential Escherichia coli msgB gene, a multicopy suppressor of a temperature-sensitive allele of the heat shock gene grpE, is identical to dapE	 	22 to 37 degrees	 	AKA msgB
