@@ -1,0 +1,40 @@
+bNumber	geneName	Enzyme	Function	Reference	lethalCondtion	strain	notes
+b2316	accD	acetylCoA carboxylase, carboxytransferase component, beta subunit	enzyme; Fatty acid and phosphatidic acid biosynthesis	PMID: 1886618	 		AKA dedB, usg Questionable
+b2563	acpS	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase	enzyme; Fatty acid and phosphatidic acid biosynthesis	PMID: 1537799	 	 	AKA dpj
+b3433	asd	aspartate-semialdehyde dehydrogenase	enzyme; Amino acid biosynthesis: Lysine	 	 	 	 
+b2472	dapE	N-succinyl-diaminopimelate deacylase	enzyme; Amino acid biosynthesis: Lysine	PMID: 1644751	22 to 37 degrees	 	AKA msgB
+b0015	dnaJ	chaperone with DnaK; heat shock protein	factor; Chaperones	 	 	 	 
+b0014	dnaK	chaperone Hsp70; DNA biosynthesis; autoregulated heat shock proteins	factor; Chaperones	 	 	 	 
+b2566	era	GTP-binding protein	factor; Global regulatory functions	PMID: 2527846	 	 	aka sdgE
+b0172	frr	ribosome releasing factor	factor; Proteins - translation and modification	PMID: 8183897	 	 	 
+b0084	ftsI	septum formation; penicillin-binding protein 3; peptidoglycan synthetase	enzyme; Cell division	PMID: 3894330	 	 	questionable
+b0083	ftsL	cell division protein; ingrowth of wall at septum	phenotype; Cell division	PMID: 1332942	 	 	 
+b3933	ftsN	essential cell division protein	phenotype; Cell division	PMID: 8509333	 	 	 
+b0095	ftsZ	cell division; forms circumferential ring; tubulin-like GTP-binding protein and GTPase	enzyme; Cell division	PMID: 2045370	 	 	 
+b2515	gcpE	orf, hypothetical protein	orf; Unknown	PMID: 1521767	 	 	 
+b2614	grpE	phage lambda replication; host DNA synthesis; heat shock protein; protein repair	IS, phage, Tn; Phage-related functions and prophages	 	 	 	 
+b3178	hflB	degrades sigma32, integral membrane peptidase, cell division protein	enzyme; Degradation of proteins, peptides, glyco	PMID: 1104589	 	 	 
+b0884	infA	protein chain initiation factor IF-1	factor; Proteins - translation and modification	PMID: 8282696	 	 	 
+b2828	lgt	phosphatidylglycerol prolipoprotein diacylglyceryl transferase; a major membrane phospholipid	enzyme; Macromolecule synthesis, modification: Phospholipids	PMID: 2644208	 	 	AKA umpA
+b0096	lpxC	UDP-3-O-acyl N-acetylglucosamine deacetylase; lipid A biosynthesis	enzyme; Surface polysaccharides & antigens	PMID: 2824434	 	 	AKA envA
+b0168	map	methionine aminopeptidase	enzyme; Proteins - translation and modification	PMID: 2544569	 	 	AKA pepM
+b4143	mopA	GroEL, chaperone Hsp60, peptide-dependent ATPase, heat shock protein	factor; Chaperones	PMID: 2563997	 	 	AKA groEL, groL
+b4142	mopB	GroES, 10 Kd chaperone binds to Hsp60 in pres. Mg-ATP, suppressing its ATPase activity	factor; Chaperones	PMID: 2563997	 	 	AKA groES, groS
+b0914	msbA	ATP-binding transport protein; multicopy suppressor of htrB	transport; Transport of small molecules: Other	PMID: 8094880	 	 	 
+b3189	murA	first step in murein biosynthesis;UDP-N-glucosamine 1-carboxyvinyltransferase	enzyme; Murein sacculus, peptidoglycan	PMID: 7608103	 	 	 
+b3967	murI	glutamate racemase, required for biosynthesis of D-glutamate and peptidoglycan	enzyme; Murein sacculus, peptidoglycan	PMID: 8098327	 	 	 
+b1740	nadE	NAD synthetase, prefers NH3 over glutamine	enzyme; Biosynthesis of cofactors, carriers: Pyridine nucleotide	PMID: 1512214	 	 	AKA efg, ntrL Not Verified
+b3982	nusG	component in transcription antitermination	putative factor; RNA synthesis, modification, DNA transcription	 	 	 	 
+b3019	parC	DNA topoisomerase IV subunit A	enzyme; DNA - replication, repair, restriction/modification	PMID: 2170028	 	 	questionable
+b4226	ppa	inorganic pyrophosphatase	enzyme; Central intermediary metabolism: Pool, multipurpose conversions	PMID: 2170325	 	 	 
+b0194	proS	proline tRNA synthetase	enzyme; Aminoacyl tRNA synthetases, tRNA modification	PMID: 1688424	 	 	AKA drpA, questionable
+b4245	pyrB	aspartate carbamoyltransferase, catalytic subunit	enzyme; Pyrimidine ribonucleotide biosynthesis	PMID: 10900135	 	 	 
+b0169	rpsB	30S ribosomal subunit protein S2	structural component; Ribosomal proteins - synthesis, modification	PMID: 161328	 	 	 
+b3965	trmA	tRNA (uracil-5-)-methyltransferase	enzyme; Aminoacyl tRNA synthetases, tRNA modification	PMID: 1373891	 	 	 
+b0915	ycaH	putative EC 1.2 enzyme	putative enzyme; Not classified	PMID: 8094880; PMID: 9268317	 	 	AKA orfE, lpxK
+b1133	ycfB	orf, hypothetical protein	orf; Unknown	PMID: 9743119	LB	MG1655	questionable
+b2602	yfiL	orf, hypothetical protein	orf; Unknown	PMID: 9743120	LB	MG1655	 
+b3064	ygjD	putative O-sialoglycoprotein endopeptidase	putative enzyme; Not classified	PMID: 9743121	LB	MG1655	 
+b3183	yhbZ	putative GTP-binding factor	putative factor; Not classified	PMID: 9743122	LB	MG1655	 
+b3865	yihA	orf, hypothetical protein	orf; Unknown	PMID: 9743123	LB	MG1655	 
+b4161	yjeQ	orf, hypothetical protein	orf; Unknown	PMID: 9743124	LB	MG1655	 
